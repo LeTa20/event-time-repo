@@ -31,7 +31,7 @@ bash
 Copy code
 python maze_search.py
 
-_Modify the Maze: _You can modify the maze structure in the script to test different configurations and see how the search algorithm handles them.
+_Modify the Maze_: You can modify the maze structure in the script to test different configurations and see how the search algorithm handles them.
 
 **Dependencies**
 
