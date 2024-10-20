@@ -23,9 +23,9 @@ _is_empty()_: Returns True if the stack is empty, otherwise returns False.
 
 **How to Run**
 
-_Clone or Downloa_d: Download the project and ensure you have Python installed on your system.
+_Clone or Download_: Download the project and ensure you have Python installed on your system.
 
-_Execute the Python Scrip_t: Run the maze_search.py script to see how the stack-based maze search algorithm works.
+_Execute the Python Script_: Run the maze_search.py script to see how the stack-based maze search algorithm works.
 
 bash
 Copy code
